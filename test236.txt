@@ -22,5 +22,4 @@ Data Structure Tong by lhc
 Algorithm Tong bh dfbb
 Java Python Tong ybq
 Heavy rain and high wind is comming!
-什么时候出停工通知？？？
-唔使休假嘅咩？？？
+
